@@ -1,0 +1,2 @@
+# dergiarsiv
+Dergilerin arşivi
